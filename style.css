@@ -1,0 +1,18 @@
+
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    border:none;
+    border-radius:50%;
+    width:200px;
+    margin-right: 20px;
+}
+.background{
+    background-color: rgb(169, 180, 244);
+}
+body{
+    height: 140vh;
+}
+
